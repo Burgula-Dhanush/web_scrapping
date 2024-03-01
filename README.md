@@ -28,11 +28,7 @@ The script will extract clean text content from the specified URL, preserving al
 bash
 Copy code
 python web_scraping_text_extraction.py
-Enter the URL: [URL of the webpage]
 
-Enter the output directory path: [Output directory path]
-
-Enter the output file name: [Output file name]
 
 📝 Note
 The extracted text content will be written to a file in the specified output directory.
