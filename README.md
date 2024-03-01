@@ -10,21 +10,21 @@ This Python script extracts clean text content from a webpage while preserving a
 
 You can install the required libraries using the following command:
 
-```bash
+bash
 pip install requests beautifulsoup4
 ▶️ Usage
 Clone or download the script file (web_scraping_text_extraction.py) to your local machine.
 
 Run the script using the following command:
 
-```bash
+bash
 python web_scraping_text_extraction.py
 Follow the prompts to input the URL of the webpage, the output directory path, and the output file name.
 
 The script will extract clean text content from the specified URL, preserving alignments, and write it to the specified output file.
 
 🌟 Example
-```bash
+bash
 python web_scraping_text_extraction.py
 
 
