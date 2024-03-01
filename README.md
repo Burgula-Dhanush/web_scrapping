@@ -17,16 +17,14 @@ Clone or download the script file (web_scraping_text_extraction.py) to your loca
 
 Run the script using the following command:
 
-bash
-Copy code
+```bash
 python web_scraping_text_extraction.py
 Follow the prompts to input the URL of the webpage, the output directory path, and the output file name.
 
 The script will extract clean text content from the specified URL, preserving alignments, and write it to the specified output file.
 
 🌟 Example
-bash
-Copy code
+```bash
 python web_scraping_text_extraction.py
 
 
